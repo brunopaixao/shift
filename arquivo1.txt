@@ -11,3 +11,5 @@ nova alteração para compreender commits
 
 
 Esta linha originou-se da Branch DEV
+
+ultima linha do arquivo
