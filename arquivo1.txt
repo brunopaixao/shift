@@ -1,6 +1,6 @@
 uma alteracao no inicio
 
-uma linha antes
+uma linha antes @@@master@@@
 
 ESTOU NA MASTER
 Primeira Alteração no Arquivo - 10:44
